@@ -1,4 +1,4 @@
 DemoProject
 ===========
 
-Demo Project
+This is a Demo Project.
